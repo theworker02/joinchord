@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/joinchord",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Join numeric chord values, ranges, and human-readable units.",
+  "bin": {
+    "joinchord": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/joinchord.git"
+  },
+  "homepage": "https://theworker02.github.io/joinchord/",
+  "keywords": [
+    "join",
+    "chord",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
